@@ -1,4 +1,4 @@
-[Lesson on Input](https://github.com/mrjamieson29/Quiz-1-Console-and-Variables/edit/main/Input_Lesson.md)
+[Lesson on Input](Input_Lesson.md)
 
 # Instructions:
 - Write JavaScript programs to demonstrate your understanding of variables, output, and conditionals.
