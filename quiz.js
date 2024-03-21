@@ -1,3 +1,5 @@
+const prompt = require('prompt-sync')();
+
 //Program 1: Temperature Converter
 
 //Program 2: Grade Calculator
