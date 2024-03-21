@@ -1,3 +1,5 @@
+[Back to Quiz](Directions.md)
+
 # How to get input from the user
 
 In a terminal, make sure you have npm installed by running:
